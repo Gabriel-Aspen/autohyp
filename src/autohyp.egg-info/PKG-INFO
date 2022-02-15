@@ -1,3 +1,19 @@
+Metadata-Version: 2.1
+Name: autohyp
+Version: 0.0.2
+Summary: A simple hypothesis testing package
+Home-page: https://github.com/Gabriel-Aspen/autohyp
+Author: Gabriel Nager
+Author-email: gabenager@gmail.com.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # Data Analysis
 
 ### Why did I write this code?
@@ -17,9 +33,11 @@ My main task is often to determine if the results are statistically significant.
 2. Is the data Normally Distributed but do the experimental and control groups have Unequal Variance? Welches' t-test
 3. Is the data not Normally Distributed? Mann-Whitney U test
 
-![](images/decision_tree.png)
+![](decision_tree.png)
 
 ### Where to Start
 
 See [This Notebook](https://github.com/Gabriel-Aspen/data_analysis_example/blob/main/demo.ipynb) for a demo on the Breast Cancer Wisconsin (Diagnostic) Dataset found [Here](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 # autohyp
+
+
